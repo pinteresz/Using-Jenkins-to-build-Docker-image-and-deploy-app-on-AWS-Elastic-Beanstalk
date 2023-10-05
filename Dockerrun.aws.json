@@ -1,0 +1,11 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+      "Name": "pinteresz/jenkins_docker_image:latest"
+    },
+    "Ports": [
+      {
+        "ContainerPort": 3000
+      }
+    ]
+}
