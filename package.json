@@ -1,0 +1,23 @@
+{
+  "name": "pushing_docker_image_to_docker_hub_with_jenkins_pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinteresz/Pushing_Docker_image_to_Docker_Hub_with_Jenkins_pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinteresz/Pushing_Docker_image_to_Docker_Hub_with_Jenkins_pipeline/issues"
+  },
+  "homepage": "https://github.com/pinteresz/Pushing_Docker_image_to_Docker_Hub_with_Jenkins_pipeline#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
