@@ -12,7 +12,7 @@
 - [x] After that I created the  **Dockerrun.aws.json** file that is needed for deploying my app on AWS Elastic Beanstalk.
 
 - [x] In Jenkins, I **install**ed the necessary **plugins** for my project, like AWS Credentials and Pipeline Utility Steps.
-I also **create**ed the needed Credentials for logins: for **Docker Hub**, I used the **Token** and for **AWS**, I used **Access Keys** I generated on those platforms earlier.
+I also **create**d the needed **Credentials** for logins: for **Docker Hub**, I used the **Token** and for **AWS**, I used **Access Keys** I generated on those platforms earlier.
 
 - [x] I **create**d the **Jenkinsfile** for building and pushing the Docker image to Docker Hub and deploying my application on AWS Elastic Beanstalk. Furthermore, I used the above-mentioned Credentials to keep my login credentials secret.
 
